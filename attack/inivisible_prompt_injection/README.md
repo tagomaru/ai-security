@@ -25,6 +25,7 @@ Completion: "Hello world!"
 ## Check the tagged charactores
 Use [this site](https://www.soscisurvey.de/tools/view-chars.php) to see what's in your clipboard.
 
+![image](https://github.com/tagomaru/ai-security/assets/17696068/76c9c3ef-a667-4cde-97f4-6a1e957277ce)
 
 
 ## Reference
