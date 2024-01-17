@@ -1,4 +1,4 @@
-# Invisible Prompt Injectioms
+# Invisible Prompt Injection
 
 ## Installation
 `$ pip install -r requirements.txt`
